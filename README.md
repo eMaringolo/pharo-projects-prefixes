@@ -18,6 +18,7 @@ The purpose of this list is to provide a public reference of such prefixes that 
 | `Gr` | | Grease Portability Library | `GRPlatform` | 
 | `GT` | `#gt` | Glamourous Toolkit | `GTPlayground` | https://github.com/feenkcom/gtoolkit | |
 | `LD` | `#ld` | LanguageDetection | `LDApiClient` | https://github.com/hernanmd/LanguageDetection | |
+| `PCT` | `#pct` | PhyloclassTalk | `PCTTerritorialRuleTree` | http://phyloclasstalk.github.io/ | |
 | `PF` | `#pf` | ProjectFramework | `BioSequence` | https://github.com/hernanmd/ProjectFramework | |
 | `T` | `#t` | Territorial | `TCountryOrganization` | https://github.com/hernanmd/Territorial | |
 | `WA` |  | Seaside Web Framework | `WAComponent` | https://github.com/SeasideSt/Seaside | |
