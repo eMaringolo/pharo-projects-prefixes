@@ -11,11 +11,18 @@ The purpose of this list is to provide a public reference of such prefixes that 
 
 | Class name prefix | Selector prefix | Project name | Sample class name | Project/Repository URI | Other |
 | ----------------- | --------------- | ------------ | ----------------- | ---------------------- | ----- |
+| `AS` | `#as` | ApplicationSecurity | `ASCheckPoint` | https://github.com/hernanmd/ApplicationSecurity | |
+| `Bio` | `#bio` | BioSmalltalk | `BioSequence` | https://github.com/hernanmd/BioSmalltalk | |
+| `CG` | `#cg` | CodeGenerator | `CGSmalltalk` | https://github.com/hernanmd/CodeGenerator | |
+| `CM` | `#cm` | CORMAS | `CMAgent` | https://github.com/cormas/cormas | |
 | `Gr` | | Grease Portability Library | `GRPlatform` | 
 | `GT` | `#gt` | Glamourous Toolkit | `GTPlayground` | https://github.com/feenkcom/gtoolkit | |
+| `LD` | `#ld` | LanguageDetection | `LDApiClient` | https://github.com/hernanmd/LanguageDetection | |
+| `PF` | `#pf` | ProjectFramework | `BioSequence` | https://github.com/hernanmd/ProjectFramework | |
+| `T` | `#t` | Territorial | `TCountryOrganization` | https://github.com/hernanmd/Territorial | |
 | `WA` |  | Seaside Web Framework | `WAComponent` | https://github.com/SeasideSt/Seaside | |
 | `Zn` |  | Zinc Web Components | `ZnClient` | https://github.com/svenvc/zinc | |
-
+| `Z3950` | `z3050` | Z3950 | `Z3950Query` | https://github.com/hernanmd/Z3950 | |
 
 ## How to contribute
 Create a pull request with changes to the current file editing the list of prefixes table
