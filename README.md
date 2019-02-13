@@ -11,6 +11,7 @@ The purpose of this list is to provide a public reference of such prefixes that 
 
 | Class name prefix | Selector prefix | Project name | Sample class name | Project/Repository URI | Other |
 | ----------------- | --------------- | ------------ | ----------------- | ---------------------- | ----- |
+| `Gf` | | Grafoscopio interactive notebook | `GfWorldMenu` | http://mutabit.com/repos.fossil/grafoscopio/ | |
 | `Gr` | | Grease Portability Library | `GRPlatform` | 
 | `GT` | `#gt` | Glamourous Toolkit | `GTPlayground` | https://github.com/feenkcom/gtoolkit | |
 | `WA` |  | Seaside Web Framework | `WAComponent` | https://github.com/SeasideSt/Seaside | |
