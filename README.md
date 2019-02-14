@@ -19,6 +19,7 @@ The purpose of this list is to provide a public reference of such prefixes that 
 | `FAMIX` | | Famix (Moose) | `FAMIXType` | https://github.com/moosetechnology/Moose | |
 | `FT` | | FastTable | `FTTableMorph` | | |
 | `Gr` | | Grease Portability Library | `GRPlatform` | 
+| `Gf` | | Grafoscopio interactive notebook | `GfWorldMenu` | http://mutabit.com/repos.fossil/grafoscopio/ | |
 | `GT` | `#gt` | Glamourous Toolkit | `GTPlayground` | https://github.com/feenkcom/gtoolkit | |
 | `Ice` | | Iceberg | `IceRepository` | https://github.com/pharo-vcs/iceberg | |
 | `LD` | `#ld` | LanguageDetection | `LDApiClient` | https://github.com/hernanmd/LanguageDetection | |
