@@ -11,12 +11,30 @@ The purpose of this list is to provide a public reference of such prefixes that 
 
 | Class name prefix | Selector prefix | Project name | Sample class name | Project/Repository URI | Other |
 | ----------------- | --------------- | ------------ | ----------------- | ---------------------- | ----- |
-| `Gf` | | Grafoscopio interactive notebook | `GfWorldMenu` | http://mutabit.com/repos.fossil/grafoscopio/ | |
+| `AS` | `#as` | ApplicationSecurity | `ASCheckPoint` | https://github.com/hernanmd/ApplicationSecurity | |
+| `Bl` | | Bloc | `BlElement` | https://github.com/pharo-graphics/Bloc | |
+| `Bio` | `#bio` | BioSmalltalk | `BioSequence` | https://github.com/hernanmd/BioSmalltalk | |
+| `CG` | `#cg` | CodeGenerator | `CGSmalltalk` | https://github.com/hernanmd/CodeGenerator | |
+| `CM` | `#cm` | CORMAS | `CMAgent` | https://github.com/cormas/cormas | |
+| `FAMIX` | | Famix (Moose) | `FAMIXType` | https://github.com/moosetechnology/Moose | |
+| `FT` | | FastTable | `FTTableMorph` | | |
 | `Gr` | | Grease Portability Library | `GRPlatform` | 
+| `Gf` | | Grafoscopio interactive notebook | `GfWorldMenu` | http://mutabit.com/repos.fossil/grafoscopio/ | |
 | `GT` | `#gt` | Glamourous Toolkit | `GTPlayground` | https://github.com/feenkcom/gtoolkit | |
+| `Ice` | | Iceberg | `IceRepository` | https://github.com/pharo-vcs/iceberg | |
+| `LD` | `#ld` | LanguageDetection | `LDApiClient` | https://github.com/hernanmd/LanguageDetection | |
+| `PM` | | PolyMath | `PMMatrix` | https://github.com/PolyMathOrg/PolyMath | |
+| `RT` | | Roassal | `RTShapeBuilder` | https://github.com/ObjectProfile/Roassal2 | |
+| `SmaCC` | | SmaCC | `SmaCCParser` | https://github.com/SmaCCRefactoring/SmaCC/tree/master/SmaCC-Runtime.package | |
+| `T` | `#t` | Territorial | `TCountryOrganization` | https://github.com/hernanmd/Territorial | |
+| `TL` | | Telescope | `TLConnector` | https://github.com/TelescopeSt/Telescope | |
+| `TR` | | Trachel (Roassal) | `TRCanvas` | https://github.com/ObjectProfile/Roassal2 | |
+| `PCT` | `#pct` | PhyloclassTalk | `PCTTerritorialRuleTree` | http://phyloclasstalk.github.io/ | |
+| `PF` | `#pf` | ProjectFramework | `PFProjectHistory` | https://github.com/hernanmd/ProjectFramework | |
+| `VO` | | Voyage | `VOMongoRepository` | https://github.com/pharo-nosql/voyage | |
 | `WA` |  | Seaside Web Framework | `WAComponent` | https://github.com/SeasideSt/Seaside | |
 | `Zn` |  | Zinc Web Components | `ZnClient` | https://github.com/svenvc/zinc | |
-
+| `Z3950` | `z3050` | Z3950 | `Z3950Query` | https://github.com/hernanmd/Z3950 | |
 
 ## How to contribute
 Create a pull request with changes to the current file editing the list of prefixes table
