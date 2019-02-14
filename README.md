@@ -11,8 +11,18 @@ The purpose of this list is to provide a public reference of such prefixes that 
 
 | Class name prefix | Selector prefix | Project name | Sample class name | Project/Repository URI | Other |
 | ----------------- | --------------- | ------------ | ----------------- | ---------------------- | ----- |
+| `Bl` | | Bloc | `BlElement` | https://github.com/pharo-graphics/Bloc | |
+| `FAMIX` | | Famix (Moose) | `FAMIXType` | https://github.com/moosetechnology/Moose | |
+| `FT` | | FastTable | `FTTableMorph` | | |
 | `Gr` | | Grease Portability Library | `GRPlatform` | 
 | `GT` | `#gt` | Glamourous Toolkit | `GTPlayground` | https://github.com/feenkcom/gtoolkit | |
+| `Ice` | | Iceberg | `IceRepository` | https://github.com/pharo-vcs/iceberg | |
+| `PM` | | PolyMath | `PMMatrix` | https://github.com/PolyMathOrg/PolyMath | |
+| `RT` | | Roassal | `RTShapeBuilder` | https://github.com/ObjectProfile/Roassal2 | |
+| `SmaCC` | | SmaCC | `SmaCCParser` | https://github.com/SmaCCRefactoring/SmaCC/tree/master/SmaCC-Runtime.package | |
+| `TL` | | Telescope | `TLConnector` | https://github.com/TelescopeSt/Telescope | |
+| `TR` | | Trachel (Roassal) | `TRCanvas` | https://github.com/ObjectProfile/Roassal2 | |
+| `VO` | | Voyage | `VOMongoRepository` | https://github.com/pharo-nosql/voyage | |
 | `WA` |  | Seaside Web Framework | `WAComponent` | https://github.com/SeasideSt/Seaside | |
 | `Zn` |  | Zinc Web Components | `ZnClient` | https://github.com/svenvc/zinc | |
 
