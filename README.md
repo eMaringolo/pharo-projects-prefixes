@@ -24,7 +24,8 @@ The purpose of this list is to provide a public reference of such prefixes that 
 | `Ice` | | Iceberg | `IceRepository` | https://github.com/pharo-vcs/iceberg | |
 | `LD` | `#ld` | LanguageDetection | `LDApiClient` | https://github.com/hernanmd/LanguageDetection | |
 | `PM` | | PolyMath | `PMMatrix` | https://github.com/PolyMathOrg/PolyMath | |
-| `RT` | | Roassal | `RTShapeBuilder` | https://github.com/ObjectProfile/Roassal2 | |
+| `RT` | | Roassal2 | `RTShapeBuilder` | https://github.com/ObjectProfile/Roassal2 | |
+| `RS` | | Roassal3 | `RSCircle` | https://github.com/ObjectProfile/Roassal3 | |
 | `SmaCC` | | SmaCC | `SmaCCParser` | https://github.com/SmaCCRefactoring/SmaCC/tree/master/SmaCC-Runtime.package | |
 | `T` | `#t` | Territorial | `TCountryOrganization` | https://github.com/hernanmd/Territorial | |
 | `TL` | | Telescope | `TLConnector` | https://github.com/TelescopeSt/Telescope | |
